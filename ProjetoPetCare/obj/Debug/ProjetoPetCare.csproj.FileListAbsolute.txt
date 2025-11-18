@@ -12,3 +12,4 @@ C:\Users\Aluno\source\repos\ProjetoPetCare\ProjetoPetCare\obj\Debug\ProjetoPetCa
 C:\Users\Aluno\source\repos\ProjetoPetCare\ProjetoPetCare\obj\Debug\ProjetoPetCare.frmCadastroAnimal.resources
 C:\Users\Aluno\source\repos\ProjetoPetCare\ProjetoPetCare\obj\Debug\ProjetoPetCare.frmCadastroCliente.resources
 C:\Users\Aluno\source\repos\ProjetoPetCare\ProjetoPetCare\obj\Debug\ProjetoPetCare.frmMenuPrincipal.resources
+C:\Users\Aluno\source\repos\ProjetoPetCare\ProjetoPetCare\obj\Debug\ProjetoPetCare.frmProdutos.resources

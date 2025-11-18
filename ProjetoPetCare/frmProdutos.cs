@@ -10,16 +10,15 @@ using System.Windows.Forms;
 
 namespace ProjetoPetCare
 {
-    public partial class frmCadastroVeterinario : Form
+    public partial class frmProdutos : Form
     {
-        public frmCadastroVeterinario()
+        public frmProdutos()
         {
             InitializeComponent();
         }
 
         private void btn_voltar_Click(object sender, EventArgs e)
         {
-  
             frmMenuPrincipal abrir = new frmMenuPrincipal();
             abrir.Show();
             this.Hide();

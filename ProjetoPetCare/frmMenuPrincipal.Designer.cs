@@ -70,6 +70,7 @@
             this.btn_cadVeterinario.TabIndex = 2;
             this.btn_cadVeterinario.Text = "Cadastro Veterinario";
             this.btn_cadVeterinario.UseVisualStyleBackColor = false;
+            this.btn_cadVeterinario.Click += new System.EventHandler(this.btn_cadVeterinario_Click);
             // 
             // btn_produtos
             // 
@@ -81,6 +82,7 @@
             this.btn_produtos.TabIndex = 3;
             this.btn_produtos.Text = "Produtos";
             this.btn_produtos.UseVisualStyleBackColor = false;
+            this.btn_produtos.Click += new System.EventHandler(this.btn_produtos_Click);
             // 
             // btn_sair
             // 

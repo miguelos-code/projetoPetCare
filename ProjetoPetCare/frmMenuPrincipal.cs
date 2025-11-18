@@ -37,5 +37,19 @@ namespace ProjetoPetCare
             abrir.Show();
             this.Hide();
         }
+
+        private void btn_cadVeterinario_Click(object sender, EventArgs e)
+        {
+            frmCadastroVeterinario abrir = new frmCadastroVeterinario();
+            abrir.Show();
+            this.Hide();
+        }
+
+        private void btn_produtos_Click(object sender, EventArgs e)
+        {
+            frmProdutos abrir = new frmProdutos();
+            abrir.Show();
+            this.Hide();
+        }
     }
 }
