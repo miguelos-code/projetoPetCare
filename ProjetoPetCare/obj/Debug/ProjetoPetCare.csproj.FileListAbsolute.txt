@@ -1,0 +1,14 @@
+C:\Users\Aluno\source\repos\ProjetoPetCare\ProjetoPetCare\bin\Debug\ProjetoPetCare.exe.config
+C:\Users\Aluno\source\repos\ProjetoPetCare\ProjetoPetCare\bin\Debug\ProjetoPetCare.exe
+C:\Users\Aluno\source\repos\ProjetoPetCare\ProjetoPetCare\bin\Debug\ProjetoPetCare.pdb
+C:\Users\Aluno\source\repos\ProjetoPetCare\ProjetoPetCare\obj\Debug\ProjetoPetCare.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\ProjetoPetCare\ProjetoPetCare\obj\Debug\ProjetoPetCare.frmCadastroVeterinario.resources
+C:\Users\Aluno\source\repos\ProjetoPetCare\ProjetoPetCare\obj\Debug\ProjetoPetCare.frmLogin.resources
+C:\Users\Aluno\source\repos\ProjetoPetCare\ProjetoPetCare\obj\Debug\ProjetoPetCare.Properties.Resources.resources
+C:\Users\Aluno\source\repos\ProjetoPetCare\ProjetoPetCare\obj\Debug\ProjetoPetCare.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\ProjetoPetCare\ProjetoPetCare\obj\Debug\ProjetoPetCare.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\ProjetoPetCare\ProjetoPetCare\obj\Debug\ProjetoPetCare.exe
+C:\Users\Aluno\source\repos\ProjetoPetCare\ProjetoPetCare\obj\Debug\ProjetoPetCare.pdb
+C:\Users\Aluno\source\repos\ProjetoPetCare\ProjetoPetCare\obj\Debug\ProjetoPetCare.frmCadastroAnimal.resources
+C:\Users\Aluno\source\repos\ProjetoPetCare\ProjetoPetCare\obj\Debug\ProjetoPetCare.frmCadastroCliente.resources
+C:\Users\Aluno\source\repos\ProjetoPetCare\ProjetoPetCare\obj\Debug\ProjetoPetCare.frmMenuPrincipal.resources
